@@ -1,3 +1,5 @@
+第一回マスターズ選手権のビジュアライザ (https://img.atcoder.jp/masters-qual/ak2uQT08.html) の生成以外の部分をコピーしたものになっており、他のコンテストではSVG描画部分を書き換えることで使用する。￥
+
 ## 動かし方
 1. `./build.sh`を実行する
 2. localhost:8000を開く
